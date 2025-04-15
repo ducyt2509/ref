@@ -1,0 +1,8 @@
+{
+  "userId": "A26",
+  "childId": "A2650",
+  "directReward": 20,
+  "childrenReward": 0,
+  "rewardRate": 20,
+  "totalReward": 20
+}
