@@ -11,5 +11,8 @@
   "devDependencies": {
     "@types/node": "^22.14.1",
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.2.1"
   }
 }
